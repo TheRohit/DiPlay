@@ -967,4 +967,7 @@
     <string name="settings_write_settings_allow">Allow access</string>
     <string name="settings_wifi_direct_scan_pause">Pause the car\'s Wi-Fi search during CarPlay · needs ADB</string>
     <string name="settings_wifi_direct_scan_pause_description">Over Wi-Fi Direct the car searches for Wi-Fi networks every few seconds, and each search makes music and video stutter. With this on, DiPlay pauses the search while CarPlay runs. The car then also does not join a known network, such as your phone\'s hotspot, by itself until CarPlay ends; you can still join one in the car\'s Wi-Fi settings. Turn it off to let the car join automatically. Applies at the next connection.</string>
+    <string name="settings_fit_screen_shape">Fit around notch and rounded corners</string>
+    <string name="settings_fit_screen_shape_description">For a phone or tablet used as a head unit. Keeps CarPlay\'s buttons and dock clear of the camera notch and the rounded corners; maps still fill the screen. A safe area set in the in-session menu takes priority. Applies at the next connection.</string>
+    <string name="settings_safe_area_fitted_summary">Safe area: fitted to the notch and corners, %1$d x %2$d at (%3$d, %4$d) in %5$d x %6$d</string>
 </resources>

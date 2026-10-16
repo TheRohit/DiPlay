@@ -913,4 +913,7 @@
     <string name="settings_write_settings_allow">السماح بالإذن</string>
     <string name="settings_wifi_direct_scan_pause">إيقاف بحث السيارة عن Wi-Fi أثناء CarPlay · يتطلب ADB</string>
     <string name="settings_wifi_direct_scan_pause_description">مع Wi-Fi Direct تبحث السيارة عن شبكات Wi-Fi كل بضع ثوانٍ، وكل بحث يجعل الموسيقى والفيديو يتقطعان. عند تشغيل هذا الخيار يوقف DiPlay البحث أثناء تشغيل CarPlay. عندها لا تتصل السيارة تلقائيًا بشبكة معروفة، مثل نقطة اتصال هاتفك، حتى ينتهي CarPlay؛ ويمكنك الاتصال بها يدويًا من إعدادات Wi-Fi في السيارة. أوقفه لتتصل السيارة تلقائيًا. يُطبَّق عند الاتصال التالي.</string>
+    <string name="settings_fit_screen_shape">تجنّب النتوء والزوايا المستديرة</string>
+    <string name="settings_fit_screen_shape_description">للهاتف أو الجهاز اللوحي المستخدم كوحدة في السيارة. يُبعد أزرار CarPlay وشريط التطبيقات عن نتوء الكاميرا والزوايا المستديرة، وتبقى الخرائط تملأ الشاشة. المنطقة الآمنة المضبوطة من قائمة الجلسة لها الأولوية. يُطبَّق عند الاتصال التالي.</string>
+    <string name="settings_safe_area_fitted_summary">المنطقة الآمنة: مضبوطة حول النتوء والزوايا، %1$d x %2$d عند (%3$d، %4$d) ضمن %5$d x %6$d</string>
 </resources>
