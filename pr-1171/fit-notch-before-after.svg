@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2406 2840" width="2406" height="2840">
+<defs><clipPath id="scr"><rect width="2246" height="1080" rx="60"/></clipPath></defs>
+<rect width="2406" height="2840" fill="#0c111b"/>
+<text x="80" y="92" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="62" font-weight="700" fill="#ff8a80">Fit off  ·  today</text><text x="80" y="156" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="40" fill="#a8b6ca">Dock and app icons sit under the notch; CarPlay uses the full 2246 x 1080 window</text>
+<g transform="translate(80 210)"><rect x="-34" y="-34" width="2314" height="1148" rx="94" fill="#050506" stroke="#2a384b" stroke-width="5"/><g clip-path="url(#scr)">
+          <rect width="2246" height="1080" fill="#15202b"/>
+          <g fill="none" stroke="#243244" stroke-linecap="round">
+            <path d="M-60 830 C 500 760, 900 900, 1400 700 S 2100 420, 2320 470" stroke-width="70"/>
+            <path d="M620 -60 L 780 1140" stroke-width="44"/>
+            <path d="M1100 1140 L 1060 560" stroke-width="44"/>
+            <path d="M1520 -60 C 1460 300, 1720 600, 1660 1140" stroke-width="44"/>
+            <path d="M-60 300 L 2320 210" stroke-width="30" stroke="#1d2a38"/>
+            <path d="M-60 560 L 2320 520" stroke-width="22" stroke="#1d2a38"/>
+          </g>
+          <path d="M1100 1140 L 1078 760 C 1080 700, 1250 660, 1400 700 S 2100 420, 2320 470" fill="none" stroke="#2f80ff" stroke-width="26" stroke-linecap="round"/>
+          <circle cx="1094" cy="930" r="34" fill="#2f80ff" stroke="#fff" stroke-width="10"/>
+          <g>
+            <rect width="170" height="1080" fill="rgba(8,10,14,.9)"/>
+            <text x="85" y="74" text-anchor="middle" font-size="40" font-weight="600" fill="#fff" font-family="system-ui,sans-serif">9:41</text>
+            <rect x="31" y="150" width="108" height="108" rx="26" fill="#34c759"/>
+            <rect x="31" y="322" width="108" height="108" rx="26" fill="#0a84ff"/>
+            <rect x="31" y="494" width="108" height="108" rx="26" fill="#ff375f"/>
+            <rect x="31" y="666" width="108" height="108" rx="26" fill="#30b0c7"/>
+            <g fill="#d0d4dc"><rect x="56" y="930" width="26" height="26" rx="6"/><rect x="88" y="930" width="26" height="26" rx="6"/><rect x="56" y="962" width="26" height="26" rx="6"/><rect x="88" y="962" width="26" height="26" rx="6"/></g>
+            <rect x="196" y="16" width="580" height="200" rx="30" fill="#1f6f43"/>
+            <text x="236" y="112" font-size="74" font-weight="700" fill="#fff" font-family="system-ui,sans-serif">↱ 300 m</text>
+            <text x="238" y="178" font-size="40" fill="rgba(255,255,255,.85)" font-family="system-ui,sans-serif">MG Road</text>
+            <rect x="2112" y="12" width="122" height="122" rx="30" fill="rgba(28,30,34,.94)"/>
+            <text x="2173" y="98" text-anchor="middle" font-size="76" fill="#fff" font-family="system-ui,sans-serif">+</text>
+            <rect x="2112" y="946" width="122" height="122" rx="30" fill="rgba(28,30,34,.94)"/>
+            <circle cx="2173" cy="1007" r="26" fill="none" stroke="#fff" stroke-width="8"/><circle cx="2173" cy="1007" r="8" fill="#fff"/>
+            <rect x="196" y="946" width="640" height="122" rx="30" fill="rgba(28,30,34,.94)"/>
+            <text x="236" y="1022" font-size="44" fill="#fff" font-family="system-ui,sans-serif">10:02 · 12 min · 4.2 km</text>
+          </g><rect x="-44" y="300" width="133" height="480" rx="44" fill="#000"/>
+          <circle cx="44" cy="560" r="17" fill="#141824" stroke="#2a3040" stroke-width="4"/>
+          <rect x="30" y="400" width="12" height="70" rx="6" fill="#141824"/><rect x="-44" y="300" width="133" height="480" rx="44" fill="none" stroke="#ff453a" stroke-width="10"/></g></g>
+<text x="80" y="1492" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="62" font-weight="700" fill="#7fcd9a">Fit on  ·  this PR</text><text x="80" y="1556" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="40" fill="#a8b6ca">Safe area (89, 18) to (2228, 1062) sent to CarPlay; the map still fills the screen</text>
+<g transform="translate(80 1610)"><rect x="-34" y="-34" width="2314" height="1148" rx="94" fill="#050506" stroke="#2a384b" stroke-width="5"/><g clip-path="url(#scr)">
+          <rect width="2246" height="1080" fill="#15202b"/>
+          <g fill="none" stroke="#243244" stroke-linecap="round">
+            <path d="M-60 830 C 500 760, 900 900, 1400 700 S 2100 420, 2320 470" stroke-width="70"/>
+            <path d="M620 -60 L 780 1140" stroke-width="44"/>
+            <path d="M1100 1140 L 1060 560" stroke-width="44"/>
+            <path d="M1520 -60 C 1460 300, 1720 600, 1660 1140" stroke-width="44"/>
+            <path d="M-60 300 L 2320 210" stroke-width="30" stroke="#1d2a38"/>
+            <path d="M-60 560 L 2320 520" stroke-width="22" stroke="#1d2a38"/>
+          </g>
+          <path d="M1100 1140 L 1078 760 C 1080 700, 1250 660, 1400 700 S 2100 420, 2320 470" fill="none" stroke="#2f80ff" stroke-width="26" stroke-linecap="round"/>
+          <circle cx="1094" cy="930" r="34" fill="#2f80ff" stroke="#fff" stroke-width="10"/>
+          <g transform="translate(89 18) scale(.95236 .96667)">
+            <rect width="170" height="1080" fill="rgba(8,10,14,.9)"/>
+            <text x="85" y="74" text-anchor="middle" font-size="40" font-weight="600" fill="#fff" font-family="system-ui,sans-serif">9:41</text>
+            <rect x="31" y="150" width="108" height="108" rx="26" fill="#34c759"/>
+            <rect x="31" y="322" width="108" height="108" rx="26" fill="#0a84ff"/>
+            <rect x="31" y="494" width="108" height="108" rx="26" fill="#ff375f"/>
+            <rect x="31" y="666" width="108" height="108" rx="26" fill="#30b0c7"/>
+            <g fill="#d0d4dc"><rect x="56" y="930" width="26" height="26" rx="6"/><rect x="88" y="930" width="26" height="26" rx="6"/><rect x="56" y="962" width="26" height="26" rx="6"/><rect x="88" y="962" width="26" height="26" rx="6"/></g>
+            <rect x="196" y="16" width="580" height="200" rx="30" fill="#1f6f43"/>
+            <text x="236" y="112" font-size="74" font-weight="700" fill="#fff" font-family="system-ui,sans-serif">↱ 300 m</text>
+            <text x="238" y="178" font-size="40" fill="rgba(255,255,255,.85)" font-family="system-ui,sans-serif">MG Road</text>
+            <rect x="2112" y="12" width="122" height="122" rx="30" fill="rgba(28,30,34,.94)"/>
+            <text x="2173" y="98" text-anchor="middle" font-size="76" fill="#fff" font-family="system-ui,sans-serif">+</text>
+            <rect x="2112" y="946" width="122" height="122" rx="30" fill="rgba(28,30,34,.94)"/>
+            <circle cx="2173" cy="1007" r="26" fill="none" stroke="#fff" stroke-width="8"/><circle cx="2173" cy="1007" r="8" fill="#fff"/>
+            <rect x="196" y="946" width="640" height="122" rx="30" fill="rgba(28,30,34,.94)"/>
+            <text x="236" y="1022" font-size="44" fill="#fff" font-family="system-ui,sans-serif">10:02 · 12 min · 4.2 km</text>
+          </g><rect x="89" y="18" width="2139" height="1044" fill="none" stroke="#ffd60a" stroke-width="7" stroke-dasharray="26 18"/><rect x="-44" y="300" width="133" height="480" rx="44" fill="#000"/>
+          <circle cx="44" cy="560" r="17" fill="#141824" stroke="#2a3040" stroke-width="4"/>
+          <rect x="30" y="400" width="12" height="70" rx="6" fill="#141824"/></g></g>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="36" fill="#a8b6ca">
+<rect x="80" y="2770" width="34" height="34" rx="6" fill="none" stroke="#ff453a" stroke-width="6"/><text x="130" y="2798">notch clash</text>
+<rect x="420" y="2770" width="34" height="34" rx="6" fill="none" stroke="#ffd60a" stroke-width="6" stroke-dasharray="10 6"/><text x="470" y="2798">fitted safe area</text>
+<text x="2326" y="2798" text-anchor="end" font-size="32">Illustration, not a screenshot. Poco F1 to scale: notch (0, 300) to (89, 780), 60 px corners</text>
+</g>
+</svg>
